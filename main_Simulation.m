@@ -553,3 +553,4 @@ if flag_Track==1
     legend(Legend_RMSE)
 end
 fprintf('End time = %s\n',datestr(now))
+fprintf('End time = %s\n',datestr(now))
